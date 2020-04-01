@@ -1,5 +1,5 @@
 {
-	"thing":{
+	"thing":[{
 		"id": "507c7f79bcf86cd7994f6c0e",
 		"name": "Super Fancy Thing",
 		"owner": "507c7f79bcf86cd7994f6c0e",
@@ -7,5 +7,14 @@
 		"createdAt": "date",
 		"updatedAt": "date",
 		"deletedAt": "date"
-	}
+		},
+		 {"id": "507c7f79bcf86cd7994f6c0e",
+		"name": "Very Cool thing",
+		"owner": "507c7f79bcf86cd7994f6c0e",
+		"description": "uber cool",
+		"createdAt": "date",
+		"updatedAt": "date",
+		"deletedAt": "date"
+		 }
+	]
 }
