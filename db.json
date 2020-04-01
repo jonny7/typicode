@@ -1,9 +1,9 @@
 {
 	"thing":{
 		"id": "507c7f79bcf86cd7994f6c0e",
-		"name": "A Name",
+		"name": "Super Fancy Thing",
 		"owner": "507c7f79bcf86cd7994f6c0e",
-		"description": "description",
+		"description": "An in depth description",
 		"createdAt": "date",
 		"updatedAt": "date",
 		"deletedAt": "date"
